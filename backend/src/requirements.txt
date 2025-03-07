@@ -1,0 +1,8 @@
+fastapi>=0.68.0,<0.69.0
+uvicorn>=0.15.0,<0.16.0
+cx-Oracle>=8.3.0
+python-dotenv>=0.19.0
+pydantic>=1.8.0,<2.0.0
+python-jose[cryptography]>=3.3.0
+passlib[bcrypt]>=1.7.4
+Pyjwt>=2.1.0
